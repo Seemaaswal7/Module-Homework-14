@@ -1,4 +1,5 @@
 # Module-Homework-14
+Refer the PDF attached to see all 5 graphes at the bottom:
 
 1) The first graph reperesents SVM Model with short_window = 4 and  long_window = 100 and off set is by 3 months.
 2) The 2nd graph graph reperesents SVM Model with short_window = 4 and  long_window = 100 and  off set is by 6 months
